@@ -1,5 +1,5 @@
 ---
-title: "내 gitgub 블로그"
+title: "Hello, It's Sigyeong"
 date: 2017-10-20 08:26:28 -0400
 categories: jekyll update
 ---
