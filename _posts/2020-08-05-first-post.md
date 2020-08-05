@@ -5,7 +5,7 @@ categories: jekyll update
 ---
 I'm a junior developer.
 
-🏆 what I am interested in:
+# 🏆 what I am interested in:
 
 ### 💻 Python
 ### 💻 Open Source projects
