@@ -121,20 +121,20 @@ author:
 #       url: "tlrud9130@naver.com"
 
 # Site Footer
-footer:
-  links:
+# footer:
+#   links:
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
 #       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/ansigyoung/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/sigyeong.an/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ansigyeong"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://www.instagram.com/ansigyoung/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: "https://www.facebook.com/sigyeong.an/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/ansigyeong"
 #     - label: "GitLab"
 #       icon: "fab fa-fw fa-gitlab"
       # url:
